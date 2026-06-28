@@ -22,10 +22,3 @@ semana5/
     │   └── restaurante.py
     ├── main.py
     └── README.md
-
-    ## 🛠️ Requisitos e Instalación
-Para ejecutar este proyecto necesitas tener instalado **Python 3.x**.
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/pabloquimi95/semana5.git
